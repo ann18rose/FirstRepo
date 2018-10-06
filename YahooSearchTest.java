@@ -41,6 +41,7 @@ public class YahooSearchTest {
 
 
     private void submitSearch(){
+        //adding new comment
         driver.findElement(By.id("uh-search-button")).click();
         driver.quit();
 
