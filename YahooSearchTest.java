@@ -18,7 +18,7 @@ public class YahooSearchTest {
     }
 
     @Test
-    public void testSearch() {
+    public void GOOGLESINGIN() {
         navigatingToMainPage();
         typeRequestInSearchInput();
         submitSearch();
